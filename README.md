@@ -1,6 +1,6 @@
 
-#Blazar Variability / BlaVar
-Scripts: python3 , bash
+BLAZAR VARIABILITY PIPELINE ( BLAVAR )
+Scripts: python2 , python3 , bash
 
 
 Here are the specific scripts for data-analysis of the time-dependent one-zone leptonic analysis. 
