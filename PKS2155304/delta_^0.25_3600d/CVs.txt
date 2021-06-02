@@ -1,0 +1,43 @@
+Coefficients of Variants (daily binned LCs) 
+ SMARTS band:	1.2280740553394	+/-0.0
+ X-rays band:	1.4923604629446685	+/-0.0
+ FERMI band:	1.4363255370724144	+/-0.0Coefficients of Variants (daily binned LCs) 
+ SMARTS band:	1.079141815633351	+/-0.0
+ X-rays band:	2.2347973306718925	+/-0.0
+ FERMI band:	1.4363255370724144	+/-0.0
+Coefficients of Variants (daily binned LCs) 
+ SMARTS band:	1.079141815633351	+/-0.0
+ X-rays band:	2.2347973306718925	+/-0.0
+ FERMI band:	1.4363255370724144	+/-0.0
+Coefficients of Variants (daily binned LCs) 
+ SMARTS band 0:	1.079141815633351	+/-0.0
+ X-rays band1:	2.2347973306718925	+/-0.0
+ FERMI band[2.4184e+22, 7.2552e+25]:	1.4363255370724144	+/-0.0
+Coefficients of Variants (daily binned LCs) 
+ SMARTS band 2:	1.4099363520916228	+/-0.0
+ X-rays band1:	2.2347973306718925	+/-0.0
+ FERMI band[2.4184e+22, 7.2552e+25]:	1.4363255370724144	+/-0.0
+Coefficients of Variants (daily binned LCs) 
+ SMARTS band 1:	1.2280740553394	+/-0.0
+ X-rays band0:	1.4923604629446685	+/-0.0
+ FERMI band[2.4184e+22, 7.2552e+25]:	1.4363255370724144	+/-0.0
+Coefficients of Variants (daily binned LCs) 
+ SMARTS band 1:	1.2280740553394	+/-0.0
+ X-rays band0:	1.4923604629446685	+/-0.0
+ FERMI band[2.4184e+22, 7.2552e+25]:	1.4363255370724144	+/-0.0
+Coefficients of Variants (daily binned LCs) 
+ SMARTS band 1:	1.2280740553394	+/-0.0
+ X-rays band0:	1.4923604629446685	+/-0.0
+ FERMI band[2.4184e+22, 7.2552e+25]:	1.4363255370724144	+/-0.0
+Coefficients of Variants (daily binned LCs) 
+ SMARTS band 1:	1.2280740553394	+/-0.0
+ X-rays band0:	1.4923604629446685	+/-0.0
+ FERMI band[2.4184e+22, 7.2552e+25]:	1.4363255370724144	+/-0.0
+Coefficients of Variants (daily binned LCs) 
+ SMARTS band 1:	1.2280740553394	+/-0.0
+ X-rays band0:	1.4923604629446685	+/-0.0
+ FERMI band[2.4184e+22, 7.2552e+25]:	1.4363255370724144	+/-0.0
+Coefficients of Variants (daily binned LCs) 
+ SMARTS band 1:	1.2280740553394	+/-0.0
+ X-rays band0:	1.4923604629446685	+/-0.0
+ FERMI band[2.4184e+22, 7.2552e+25]:	1.4363255370724144	+/-0.0

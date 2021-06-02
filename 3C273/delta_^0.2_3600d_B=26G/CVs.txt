@@ -1,0 +1,19 @@
+Coefficients of Variants (daily binned LCs) 
+ SMARTS band:	0.31471057344114556	+/-0.0
+ X-rays band:	0.9945397884781882	+/-0.0
+ FERMI band:	0.9972983192196188	+/-0.0Coefficients of Variants (daily binned LCs) 
+ SMARTS band 0:	0.3300884732991471	+/-0.0
+ X-rays band1:	0.8066669260713191	+/-0.0
+ FERMI band[2.4184e+22, 7.2552e+25]:	0.9972983192196188	+/-0.0
+Coefficients of Variants (daily binned LCs) 
+ SMARTS band 2:	0.2955996786512744	+/-0.0
+ X-rays band1:	0.8066669260713191	+/-0.0
+ FERMI band[2.4184e+22, 7.2552e+25]:	0.9972983192196188	+/-0.0
+Coefficients of Variants (daily binned LCs) 
+ SMARTS band 0:	0.33031093759482294	+/-0.0
+ X-rays band0:	0.9945397884781882	+/-0.0
+ FERMI band[2.4184e+22, 7.2552e+25]:	0.9972983192196188	+/-0.0
+Coefficients of Variants (daily binned LCs) 
+ SMARTS band 0:	0.3300635859469737	+/-0.0
+ X-rays band1:	0.8066669260713191	+/-0.0
+ FERMI band[2.4184e+22, 7.2552e+25]:	0.9972983192196188	+/-0.0

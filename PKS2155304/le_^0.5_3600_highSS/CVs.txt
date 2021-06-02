@@ -1,0 +1,4 @@
+Coefficients of Variants (daily binned LCs) 
+ SMARTS band:	0.40681005860773595	+/-0.0
+ X-rays band:	0.2959930989797955	+/-0.0
+ FERMI band:	0.7779398013078104	+/-0.0

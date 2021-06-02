@@ -1,0 +1,21 @@
+1 5 843 843.0
+7    -52 	-36	-52.  1.e-5
+6640000000000000.0	26.0	1.	1.
+0	0.01	3.475	2.15	-12.5    1.
+1	0.01	3.475	2.15	-1.95	1.0
+1	315000.0	0.033
+1	2.11	2.11
+10.0
+15.0
+lext 3619 multi843 1
+ireadin,npdec,nsteps,tmax
+gpexmx,ypmin,yemin,ygmin,tol	
+radius, bfield,bplus
+iprext,gpextmn,gpextmx,slprints,exlumpr,bpresc
+ielext,geextmn,geextmx,slelints,exlumel,belesc
+iphotext,temperat,exlumth
+ielextbpl,gbrl, secpl
+
+1.98e7   2.01e7  2.01    4.7e-5
+
+3
