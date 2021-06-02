@@ -1,5 +1,6 @@
 
-BLAZAR VARIABILITY PIPELINE ( BLAVAR )
+!
+!BLAZAR VARIABILITY PIPELINE ( BLAVAR )
 Scripts: python2 , python3 , bash
 
 
