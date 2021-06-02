@@ -1,8 +1,12 @@
+
 #Blazar Variability / BlaVar
 Scripts: python3 , bash
 
 
-###Here are the specific scripts for data-analysis of the time-dependent one-zone leptonic analysis. 
+Here are the specific scripts for data-analysis of the time-dependent one-zone leptonic analysis. 
+
+-------------------------------------------------------------------------------------------------------
+
 CAUTION 1 ! Directories are structured with a specific format. Please adjust to your environment.
 CAUTION 2 ! Many scripts are employed for analyzing data have dependencies. Specifically,
 there are dependencies on "code_clean", "code_var" fortran codes for time-dependent radiative tran-
@@ -11,7 +15,7 @@ Python environment as a "DELC" library.
 -------------------------------------------------------------------------------------------------------
 
 
-1) Obs4fit_v2.py :  Finds steady state parameters using input observables: slope of uncooled electrons, 
+1) code2obs_v4.py :  Finds steady state parameters using input observables: slope of uncooled electrons, 
 maximum emitting frequency, ratio of synchrotron/compton luminosities. Manual values can be used in 
 combination of the suggested parameters. There is an option to run the steady state code (10 tcross) &
 compare with the observed SED data points (chi^2). The results(.inp & .ps) are saved with a specific 
