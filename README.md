@@ -7,7 +7,7 @@ written in fortran based on the Mastichiadis-Kirk code of 1997,
 is NOT yet publically available here, and reasonable
 requests have to be made to the authors for obtaining the code__
 
-Here are the specific scripts for data-analysis of the time-dependent one-zone leptonic analysis. 
+Here are the specific scripts for data-analysis of the time-dependent one-zone leptonic modelling. 
 
 -------------------------------------------------------------------------------------------------------
 Caution!
