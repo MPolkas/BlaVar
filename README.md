@@ -1,7 +1,11 @@
 
 # BLAZAR VARIABILITY PIPELINE ( BLAVAR )
-Scripts: python2 , python3 , bash
+scripts alter between the following environments: python2 , python3 , bash
 
+__The time-dependent radiative-transfer code, 
+written in fortran based on the Mastichiadis-Kirk code of 1997, 
+is NOT yet publically available here, and reasonable
+requests have to be made to the authors for obtaining the code__
 
 Here are the specific scripts for data-analysis of the time-dependent one-zone leptonic analysis. 
 
